@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-    <div id="form" class="container p-4 mx-auto my-2">
+    <div id="form" class="container p-4 mx-auto my-2 rounded">
       <div class="d-flex justify-content-center">
         <h1>LOST RECEIPT AFFIDAVIT</h1>
       </div>
